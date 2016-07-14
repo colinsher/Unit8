@@ -1,0 +1,38 @@
+*{
+	background-color:#fffff0;
+	font-family:helvetica,sans-serif;
+}
+body{
+	font-size:24px;
+}
+#results{
+	height:30%;
+	width:500px;
+	background-color:#f0f0ff;
+	font-family:helvetica, sans-serif;
+	margin:auto;
+}
+#value{
+	margin-left:50px;
+}
+#money{
+	font-size:1em;
+	width:150px;
+	font-family:courier;
+}
+#calculate{
+	font-size:1em;
+	font-family:helvetica, sans-serif;
+}
+#total,#tip{
+	background-color:transparent;
+}
+#Percent{
+	font-size:24px;
+	font-family:courier;
+	width:50px;
+}
+p{
+	padding:5px;
+	text-align:center;
+}
